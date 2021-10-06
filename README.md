@@ -1,34 +1,3 @@
-### Hi there 👋 
-
-<!--
-**Nefertumm/Nefertumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-- My IRL name is Angelo.
-- I love development and games.
-- I'm an active collaborator of [AzerothCore](https://www.azerothcore.org/)
-- I'm 24 years old. (April, 10th)
-
-GitHub stats
-
-<div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nefertumm&show_icons=true&count_private=true&theme=radical" />
-  </div>
-<img align="left" src="https://c.tenor.com/wshtTNn_fmoAAAAi/christ-scared.gif" />
-
-![Nefertumm's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=Nefertumm&theme=radical&hide=java,javascript,html,css&layout=compact)
--->
 
 <h1 align="center">Hi there 👋, I'm Nefertumm</h1>
 <h3 align="center">A nice guy from Argentina</h3>
