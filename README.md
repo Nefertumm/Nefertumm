@@ -23,5 +23,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nefertumm&show_icons=true&locale=en&count_private=true&theme=radical" alt="nefertumm" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nefertumm&theme=radical&hide=java,javascript,html,css&layout=compact" alt="nefertumm" />
 
-<p align="right">&nbsp; ONLY C++? </p>
+<p align="right"> ONLY C++? </p>
 <img align="right" src="https://c.tenor.com/nnWxu7jZF5gAAAAi/peepoleave-peepo.gif" />
