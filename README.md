@@ -12,7 +12,7 @@
 - 🧬 I'm studying Bioengineering.
 - 👾 I love development and games.
 - 🔭 I’m currently working on [AzerothCore](https://github.com/azerothcore)
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** - **Vue.js**
 - 📫 How to reach me **nefertum.dev@protonmail.com**
 
 
