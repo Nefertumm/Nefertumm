@@ -8,7 +8,7 @@
 
 
 - 🧑🏼 My IRL name is Angelo.
-- ⭐️ I'm 25 years old. (April, 10th).
+- ⭐️ I'm 26 years old. (April, 10th).
 - 🧬 I'm studying Bioengineering - Informatical Engineering - Data processing and Exploitation.
 - 👾 I love development and games.
 - 🔭 I’m currently working on [AzerothCore](https://github.com/azerothcore)
